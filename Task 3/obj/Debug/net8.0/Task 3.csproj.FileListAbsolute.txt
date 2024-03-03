@@ -1,0 +1,15 @@
+D:\GeekBrains\C#\Урок 2. Простые Алгоритмы\Task 3\obj\Debug\net8.0\Task 3.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\C#\Урок 2. Простые Алгоритмы\Task 3\obj\Debug\net8.0\Task 3.AssemblyInfoInputs.cache
+D:\GeekBrains\C#\Урок 2. Простые Алгоритмы\Task 3\obj\Debug\net8.0\Task 3.AssemblyInfo.cs
+D:\GeekBrains\C#\Урок 2. Простые Алгоритмы\Task 3\obj\Debug\net8.0\Task 3.csproj.CoreCompileInputs.cache
+D:\GeekBrains\C#\Урок 2. Простые Алгоритмы\Task 3\obj\Debug\net8.0\Task 3.sourcelink.json
+D:\GeekBrains\C#\Урок 2. Простые Алгоритмы\Task 3\bin\Debug\net8.0\Task 3.exe
+D:\GeekBrains\C#\Урок 2. Простые Алгоритмы\Task 3\bin\Debug\net8.0\Task 3.deps.json
+D:\GeekBrains\C#\Урок 2. Простые Алгоритмы\Task 3\bin\Debug\net8.0\Task 3.runtimeconfig.json
+D:\GeekBrains\C#\Урок 2. Простые Алгоритмы\Task 3\bin\Debug\net8.0\Task 3.dll
+D:\GeekBrains\C#\Урок 2. Простые Алгоритмы\Task 3\bin\Debug\net8.0\Task 3.pdb
+D:\GeekBrains\C#\Урок 2. Простые Алгоритмы\Task 3\obj\Debug\net8.0\Task 3.dll
+D:\GeekBrains\C#\Урок 2. Простые Алгоритмы\Task 3\obj\Debug\net8.0\refint\Task 3.dll
+D:\GeekBrains\C#\Урок 2. Простые Алгоритмы\Task 3\obj\Debug\net8.0\Task 3.pdb
+D:\GeekBrains\C#\Урок 2. Простые Алгоритмы\Task 3\obj\Debug\net8.0\Task 3.genruntimeconfig.cache
+D:\GeekBrains\C#\Урок 2. Простые Алгоритмы\Task 3\obj\Debug\net8.0\ref\Task 3.dll
