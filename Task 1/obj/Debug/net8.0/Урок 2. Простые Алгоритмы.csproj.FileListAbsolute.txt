@@ -1,0 +1,14 @@
+D:\GeekBrains\C#\Урок 2. Простые Алгоритмы\obj\Debug\net8.0\Урок 2. Простые Алгоритмы.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\C#\Урок 2. Простые Алгоритмы\obj\Debug\net8.0\Урок 2. Простые Алгоритмы.AssemblyInfoInputs.cache
+D:\GeekBrains\C#\Урок 2. Простые Алгоритмы\obj\Debug\net8.0\Урок 2. Простые Алгоритмы.AssemblyInfo.cs
+D:\GeekBrains\C#\Урок 2. Простые Алгоритмы\obj\Debug\net8.0\Урок 2. Простые Алгоритмы.csproj.CoreCompileInputs.cache
+D:\GeekBrains\C#\Урок 2. Простые Алгоритмы\bin\Debug\net8.0\Урок 2. Простые Алгоритмы.exe
+D:\GeekBrains\C#\Урок 2. Простые Алгоритмы\bin\Debug\net8.0\Урок 2. Простые Алгоритмы.deps.json
+D:\GeekBrains\C#\Урок 2. Простые Алгоритмы\bin\Debug\net8.0\Урок 2. Простые Алгоритмы.runtimeconfig.json
+D:\GeekBrains\C#\Урок 2. Простые Алгоритмы\bin\Debug\net8.0\Урок 2. Простые Алгоритмы.dll
+D:\GeekBrains\C#\Урок 2. Простые Алгоритмы\bin\Debug\net8.0\Урок 2. Простые Алгоритмы.pdb
+D:\GeekBrains\C#\Урок 2. Простые Алгоритмы\obj\Debug\net8.0\Урок 2. Простые Алгоритмы.dll
+D:\GeekBrains\C#\Урок 2. Простые Алгоритмы\obj\Debug\net8.0\refint\Урок 2. Простые Алгоритмы.dll
+D:\GeekBrains\C#\Урок 2. Простые Алгоритмы\obj\Debug\net8.0\Урок 2. Простые Алгоритмы.pdb
+D:\GeekBrains\C#\Урок 2. Простые Алгоритмы\obj\Debug\net8.0\Урок 2. Простые Алгоритмы.genruntimeconfig.cache
+D:\GeekBrains\C#\Урок 2. Простые Алгоритмы\obj\Debug\net8.0\ref\Урок 2. Простые Алгоритмы.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Урок 2. Простые Алгоритмы/1.0.0": {
+        "runtime": {
+          "Урок 2. Простые Алгоритмы.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Урок 2. Простые Алгоритмы/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
