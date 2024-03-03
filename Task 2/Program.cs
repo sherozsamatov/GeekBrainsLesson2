@@ -7,8 +7,8 @@
 // 4. например вход: Х = 5, Y = -5; Выход: IV-четверть
 
 int x = 5;
-int y = 5;
-
+int y = -2;
+do {
 if (x > 0 && y > 0)
 {
   Console.WriteLine("I-четверть");
@@ -23,6 +23,15 @@ else if (x < 0 && y < 0)
 {
   Console.WriteLine("III-четверть");
 }
-else {
+
+else if (x > 0 && y < 0)
+{
   Console.WriteLine("IV-четверть");
 }
+
+else {
+  Console.WriteLine("x or y cannot equal to 0");
+}
+break;
+}
+while (x != 0 || y != 0);
