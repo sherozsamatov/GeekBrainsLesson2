@@ -13,11 +13,11 @@ Console.WriteLine("Enter a number between 10 and 99: ");
 int number = Convert.ToInt32(Console.ReadLine()); // 89
 
 if (number < min) {
-  System.Console.WriteLine("input cannot be less than 10, 10 is chosen");
+  System.Console.WriteLine("min number cannot be less than 10, min is chosen");
   number = min;
 }
 else if (number > max) {
-  System.Console.WriteLine("input cannot be greater than 99, 99 is chosen");
+  System.Console.WriteLine("max number cannot be greater than 99, max is chosen");
   number = max;
 }
 
