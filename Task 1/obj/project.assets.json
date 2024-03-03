@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GeekBrains\\C#\\Урок 2. Простые Алгоритмы\\Урок 2. Простые Алгоритмы.csproj",
+      "projectUniqueName": "D:\\GeekBrains\\C#\\Урок 2. Простые Алгоритмы\\Task 1\\Урок 2. Простые Алгоритмы.csproj",
       "projectName": "Урок 2. Простые Алгоритмы",
-      "projectPath": "D:\\GeekBrains\\C#\\Урок 2. Простые Алгоритмы\\Урок 2. Простые Алгоритмы.csproj",
+      "projectPath": "D:\\GeekBrains\\C#\\Урок 2. Простые Алгоритмы\\Task 1\\Урок 2. Простые Алгоритмы.csproj",
       "packagesPath": "C:\\Users\\Sheroz\\.nuget\\packages\\",
-      "outputPath": "D:\\GeekBrains\\C#\\Урок 2. Простые Алгоритмы\\obj\\",
+      "outputPath": "D:\\GeekBrains\\C#\\Урок 2. Простые Алгоритмы\\Task 1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Sheroz\\AppData\\Roaming\\NuGet\\NuGet.Config"
